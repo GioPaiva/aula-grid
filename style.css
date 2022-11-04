@@ -1,0 +1,24 @@
+.container{
+display: grid;
+grid-template-columns:1fr 1fr 1fr ;
+grid-template-rows: 20% 10% 50% 20%;
+
+}
+.banner{
+background-color: aqua;
+}
+.menu{
+background-color: blue;
+}
+.conteudo1{
+background-color: blueviolet;
+}
+.conteudo2{
+background-color: burlywood;
+}
+.conteudo3{
+background-color: bisque;
+}
+.rodape{
+background-color: cornflowerblue;
+}
